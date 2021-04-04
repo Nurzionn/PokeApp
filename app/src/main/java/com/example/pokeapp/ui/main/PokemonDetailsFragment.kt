@@ -192,6 +192,7 @@ class PokemonDetailsFragment : Fragment() {
 
         context?.let { ContextCompat.getColor(it, colorType) }?.let {
             principal_linearLayout.setBackgroundColor(it)
+            toolbar.setBackgroundColor(it)
         }
     }
 
