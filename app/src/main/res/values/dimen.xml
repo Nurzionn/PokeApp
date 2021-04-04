@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_small_size">8sp</dimen>
+    <dimen name="text_medium_small_size">12sp</dimen>
+    <dimen name="text_medium_size">16sp</dimen>
+    <dimen name="text_large_size">20sp</dimen>
+    <dimen name="text_extra_large_size">24sp</dimen>
+
+    <dimen name="padding_small_size">8dp</dimen>
+    <dimen name="padding_medium_size">12dp</dimen>
+    <dimen name="padding_large_size">16dp</dimen>
+
+    <dimen name="elevation_small_size">4dp</dimen>
+    <dimen name="elevation_medium_size">8dp</dimen>
+    <dimen name="elevation_large_size">12dp</dimen>
+
+    <dimen name="image_small_size">16dp</dimen>
+    <dimen name="image_medium_size">32dp</dimen>
+    <dimen name="image_large_size">64dp</dimen>
+    <dimen name="image_xlarge_size">128dp</dimen>
+    <dimen name="image_xxlarge_size">192dp</dimen>
+    <dimen name="image_xxxlarge_size">256dp</dimen>
+    <dimen name="image_xxxxlarge_size">512dp</dimen>
+</resources>

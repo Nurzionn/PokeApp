@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryDark">#c20000</color>
+    <color name="colorPrimaryLight">#ff5a36</color>
+
+    <color name="colorYellow">#FFEF64</color>
+    <color name="colorYellowLight">#ffff96</color>
+    <color name="colorYellowDark">#c9bd30</color>
+
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="normal">#757474</color>
+    <color name="fire">#FF9800</color>
+    <color name="water">#2196F3</color>
+    <color name="grass">#4CAF50</color>
+    <color name="electric">#FAE20D</color>
+    <color name="ice">#00BCD4</color>
+    <color name="fighting">#FF5722</color>
+    <color name="poison">#9C27B0</color>
+    <color name="ground">#CDDC39</color>
+    <color name="flying">#9C27B0</color>
+    <color name="psychic">#E91E63</color>
+    <color name="bug">#8BC34A</color>
+    <color name="rock">#C65E06</color>
+    <color name="ghost">#673AB7</color>
+    <color name="dark">#780404</color>
+    <color name="dragon">#FFFFFF</color>
+    <color name="steel">#A8A5A5</color>
+    <color name="fairy">#E695F4</color>
+
+    <color name="colorAccent">#03DAC5</color>
+</resources>
